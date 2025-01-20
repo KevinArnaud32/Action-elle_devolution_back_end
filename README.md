@@ -1,7 +1,7 @@
 
 ## Description
 
-Ce projet test q été réalisé avec le framework python django 
+Ce projet test a été réalisé avec le framework python django 
 
 ## Prérequis
 
