@@ -26,4 +26,8 @@ Aprés exécution de la commande si vous voyez apparaitre le message "no changes
 10. exécuter la commande python manage.py migrate pour faire la migration. Cela créera les tables dans votre base de données
 11. exécuter maintenant l'application. Pour ce fait exécuter la commande python manage.py runserver . Cela lancera le serveur pour démmarer le projet Django
 
-# le serveur etant lancé, vous pouvez maintenant exécuter le front
+## le serveur etant lancé, vous pouvez maintenant exécuter le front
+
+## un utilisateur par défaut a été crée avec les accès suivants:
+username : admin
+Mot de passe : admin
